@@ -1,0 +1,14 @@
+C:\Users\ahmet\source\repos\testasp\testasp\bin\Debug\netcoreapp2.1\testasp.deps.json
+C:\Users\ahmet\source\repos\testasp\testasp\bin\Debug\netcoreapp2.1\testasp.runtimeconfig.json
+C:\Users\ahmet\source\repos\testasp\testasp\bin\Debug\netcoreapp2.1\testasp.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\testasp\testasp\bin\Debug\netcoreapp2.1\testasp.dll
+C:\Users\ahmet\source\repos\testasp\testasp\bin\Debug\netcoreapp2.1\testasp.pdb
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.RazorAssemblyInfo.cache
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.RazorAssemblyInfo.cs
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.RazorTargetAssemblyInfo.cache
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.dll
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.pdb
+C:\Users\ahmet\source\repos\testasp\testasp\obj\Debug\netcoreapp2.1\testasp.csprojAssemblyReference.cache
